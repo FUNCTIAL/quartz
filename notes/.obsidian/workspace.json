@@ -1,0 +1,247 @@
+{
+  "main": {
+    "id": "b49c6a1e5d01c031",
+    "type": "split",
+    "children": [
+      {
+        "id": "abe1df1762ca0e6d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bce0aeab03546876",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Now.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "621f1679f43fd197",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d7ba69a54bc8e57",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1a06d80fdac6d3e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6a53ee3fe207d8d0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "construc",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ba4409e70e746327",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "60c5851a26bfaa9e",
+    "type": "split",
+    "children": [
+      {
+        "id": "88ee959e786445c0",
+        "type": "tabs",
+        "dimension": 38.73873873873874,
+        "children": [
+          {
+            "id": "560a864566d7d9fd",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Now.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "fe09103ff7f92a82",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "77026eee2cbef7dd",
+        "type": "tabs",
+        "dimension": 61.261261261261254,
+        "children": [
+          {
+            "id": "c2283ba110a5dbde",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Now.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7bde9fa528718065",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Now.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "329c72dda397d573",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Variables.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "ce6363980ed75dda",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Now.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "bce0aeab03546876",
+  "lastOpenFiles": [
+    "index.md",
+    "Now.md",
+    "Java.md",
+    "ITCT241.md",
+    "The Pareto Principle.md",
+    "Variables.md",
+    "Blender Guru Donut Tutorial.md",
+    "Godot.md",
+    "How To Learn Software Engineering.md",
+    "Runtime analysis.md",
+    "Big O notation.md",
+    "utilities/templates/References.md",
+    "utilities/templates/Notes.md",
+    "Blender.md",
+    "private",
+    "Object Oriented Programming.md",
+    "utilities/attachments/lecture01 - Overview.pdf",
+    "utilities/attachments/1 Overview.pdf",
+    "utilities/attachments/Pasted image 20240922144614.png",
+    "Untitled.canvas",
+    "resources/ICMK353 Contents.md",
+    "Untitled.md",
+    "Untitled 3.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "utilities/attachments/L01 - Intro to Marketing Research and Intelligence.pdf",
+    "resources/ICMK352 Contents.md",
+    "resources",
+    "2024-09-21.md",
+    "0002-09-21.md",
+    "ITCT301.md",
+    "utilities",
+    "Welcome.md",
+    "utilities/templates",
+    "utilities/attachments/Interviewing exercise.pptx.pdf",
+    "utilities/attachments/L02 - Research Design.pdf",
+    "utilities/attachments/Syllabus - ICMK352 Marketing Intelligence.pdf"
+  ]
+}

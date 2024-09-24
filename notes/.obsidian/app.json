@@ -1,0 +1,11 @@
+{
+  "livePreview": false,
+  "propertiesInDocument": "visible",
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "Utilities/Attachments",
+  "showInlineTitle": true,
+  "showRibbon": true,
+  "strictLineBreaks": false,
+  "autoPairMarkdown": true
+}

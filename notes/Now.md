@@ -13,3 +13,4 @@
 - Gestalt Theory
 - tmux
 - bash
+- Mini essays

@@ -1,0 +1,12 @@
+{
+  "accentColor": "#8a5cf5",
+  "theme": "obsidian",
+  "baseFontSizeAction": true,
+  "baseFontSize": 16,
+  "showViewHeader": true,
+  "nativeMenus": false,
+  "cssTheme": "Border",
+  "monospaceFontFamily": "Source Code Pro",
+  "textFontFamily": "Atkinson Hyperlegible",
+  "interfaceFontFamily": "Atkinson Hyperlegible"
+}
