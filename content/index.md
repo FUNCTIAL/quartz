@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Index
 ---
 
 This is a blank Quartz installation.
