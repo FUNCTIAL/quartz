@@ -33,7 +33,7 @@ int dollars = (int) balance;
 ![[Pasted image 20240922144614.png]]
 
 As a solution, we can use `Math.round` to convert the floating-point number into nearest integer
-```java
+```Java
 long rounded = Math.round(balance);
 
 // balance = 13.5 -> rounded = 14
