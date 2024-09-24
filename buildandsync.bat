@@ -1,2 +1,2 @@
-start npx quartz build
-start /wait npx quartz sync
+@echo off
+npx quartz build && npx quartz sync
