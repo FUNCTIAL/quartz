@@ -36,8 +36,7 @@
   "editor:swap-line-down": [
     {
       "modifiers": [
-        "Mod",
-        "Shift"
+        "Alt"
       ],
       "key": "ArrowDown"
     }
@@ -45,8 +44,7 @@
   "editor:swap-line-up": [
     {
       "modifiers": [
-        "Mod",
-        "Shift"
+        "Alt"
       ],
       "key": "ArrowUp"
     }
