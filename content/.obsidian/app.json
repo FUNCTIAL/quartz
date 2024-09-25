@@ -3,7 +3,7 @@
   "propertiesInDocument": "visible",
   "trashOption": "local",
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "Utilities/Attachments",
+  "attachmentFolderPath": "utilities/attachments",
   "showInlineTitle": true,
   "showRibbon": true,
   "strictLineBreaks": false,
