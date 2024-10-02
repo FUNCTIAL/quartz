@@ -7,5 +7,6 @@
   "showInlineTitle": true,
   "showRibbon": true,
   "strictLineBreaks": false,
-  "autoPairMarkdown": true
+  "autoPairMarkdown": true,
+  "vimMode": false
 }
