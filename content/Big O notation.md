@@ -3,6 +3,7 @@ tags:
 created on: 2024-09-23
 ---
 
+The larger the function, the less efficient it get.
 Common Growth Rate (Fastest → Slowest)
 
 | Function | Growth Rate |
