@@ -77,5 +77,10 @@
   "Editor@@link-unresolved-color@@light": "#494D5A",
   "Editor@@inline-title-divider-remove": false,
   "Editor@@inline-title-size": "1.5em",
-  "Editor@@codeblock-style-select": "codeblock-style-one-dark"
+  "Editor@@codeblock-style-select": "codeblock-style-dracula",
+  "Components@@colorful-folder": false,
+  "Components@@file-icon-remove": true,
+  "Components@@folder-font-bold": true,
+  "Components@@file-names-untrim": false,
+  "Components@@CTA-BTN-enable": false
 }

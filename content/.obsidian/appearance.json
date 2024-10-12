@@ -6,7 +6,7 @@
   "showViewHeader": true,
   "nativeMenus": false,
   "cssTheme": "Border",
-  "monospaceFontFamily": "Source Code Pro",
-  "textFontFamily": "Atkinson Hyperlegible",
-  "interfaceFontFamily": "Atkinson Hyperlegible"
+  "monospaceFontFamily": "RobotoMono Nerd Font,Source Code Pro",
+  "textFontFamily": "Atkinson Hyperlegible,RobotoMono Nerd Font",
+  "interfaceFontFamily": "RobotoMono Nerd Font,Atkinson Hyperlegible"
 }

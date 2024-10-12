@@ -1,7 +1,6 @@
 ---
 tags:
   - Programming
-created on: 2024-09-21
 ---
 
 > Programming is all about problem solving and logical thinking.

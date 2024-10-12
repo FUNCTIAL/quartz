@@ -1,7 +1,6 @@
 ---
 tags:
   - Programming
-created on: 2024-09-22
 ---
 
 Object Oriented Programming is a kind of [[Programming Paradigms|programming paradigm]] based on the concept of **Object**.

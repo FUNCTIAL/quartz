@@ -2,7 +2,6 @@
 tags:
  - Blender
  - 3D
-created on: 2024-09-12
 ---
 
 Add Menu | Shift + A

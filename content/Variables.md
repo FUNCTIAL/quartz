@@ -1,7 +1,6 @@
 ---
 tags:
   - Programming
-created on: 2024-09-22
 ---
 
 Variables are storage of data, which they can be given in many format.

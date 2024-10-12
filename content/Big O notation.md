@@ -1,6 +1,6 @@
 ---
-tags: 
-created on: 2024-09-23
+tags:
+  - Programming
 ---
 
 The larger the function, the less efficient it get.

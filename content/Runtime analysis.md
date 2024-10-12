@@ -1,7 +1,6 @@
 ---
 tags:
   - Programming
-created on: 2024-09-23
 ---
 
 Test how fast the algorhythm is.

@@ -2,7 +2,6 @@
 tags:
   - 3D
   - Blender
-created on: 2024-09-20
 ---
 
 ## Controls
