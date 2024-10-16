@@ -1,4 +1,5 @@
 ---
+draft: true
 kindle-sync:
   bookId: '43649'
   title: >-
@@ -6,10 +7,11 @@ kindle-sync:
     Better
   author: Will Storr
   asin: B07WXJTR9Q
-  lastAnnotatedDate: '2024-10-06'
+  lastAnnotatedDate: '2024-10-11'
   bookImageUrl: 'https://m.media-amazon.com/images/I/6145jm0XFyS._SY160.jpg'
   highlightsCount: 28
 ---
+
 Author: [Will Storr](https://www.amazon.comundefined)
 * ASIN: B07WXJTR9Q
 * ISBN: 1419743031

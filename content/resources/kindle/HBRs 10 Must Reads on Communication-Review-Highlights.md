@@ -1,4 +1,5 @@
 ---
+draft: true
 kindle-sync:
   bookId: '50425'
   title: >-
@@ -10,6 +11,7 @@ kindle-sync:
   bookImageUrl: 'https://m.media-amazon.com/images/I/71o-l1Q65fL._SY160.jpg'
   highlightsCount: 3
 ---
+
 Author: [Harvard Business Review](https://www.amazon.comundefined)
 * ASIN: B00ATLM07Q
 * ISBN: 1422189864

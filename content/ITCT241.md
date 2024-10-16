@@ -1,6 +1,7 @@
 ---
 tags:
   - Programming
+draft: false
 ---
 
 ## Lecture 1

@@ -1,4 +1,5 @@
 ---
+draft: true
 kindle-sync:
   bookId: '17696'
   title: 'Range: How Generalists Triumph in a Specialized World'
@@ -8,6 +9,7 @@ kindle-sync:
   bookImageUrl: 'https://m.media-amazon.com/images/I/71H6pcmbT7L._SY160.jpg'
   highlightsCount: 20
 ---
+
 Author: [(Journalist) David Epstein](https://www.amazon.comundefined)
 * ASIN: B07M6QPRRG
 * ISBN: 0735214506

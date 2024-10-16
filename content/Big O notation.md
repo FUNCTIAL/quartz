@@ -1,6 +1,7 @@
 ---
 tags:
   - Programming
+draft: false
 ---
 
 The larger the function, the less efficient it get.

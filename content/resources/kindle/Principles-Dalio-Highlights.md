@@ -1,4 +1,5 @@
 ---
+draft: true
 kindle-sync:
   bookId: '40050'
   title: 'Principles: Life and Work'
@@ -6,8 +7,9 @@ kindle-sync:
   asin: B071CTK28D
   lastAnnotatedDate: '2024-10-03'
   bookImageUrl: 'https://m.media-amazon.com/images/I/61suprU8a5L._SY160.jpg'
-  highlightsCount: 96
+  highlightsCount: 195
 ---
+
 Author: [Ray Dalio](https://www.amazon.comundefined)
 * ASIN: B071CTK28D
 * ISBN: 1501124021
@@ -400,5 +402,401 @@ Yet even when I did succeed in helping them see the linkages, the political deci
 ---
 — location: [1530](kindle://book?action=open&asin=B071CTK28D&location=1530)
 “Troika” ^ref-23693
+
+---
+— location: [1534](kindle://book?action=open&asin=B071CTK28D&location=1534)
+During the next couple of years, over considerable objections, he and his government pushed these controversial reforms through. He never got the praise he deserved, but he didn’t care because his satisfaction came from seeing the results he produced. To me, that is a hero. ^ref-64322
+
+---
+— location: [1555](kindle://book?action=open&asin=B071CTK28D&location=1555)
+mandate, ^ref-31497
+
+---
+— location: [1558](kindle://book?action=open&asin=B071CTK28D&location=1558)
+precedent ^ref-44989
+
+---
+— location: [1569](kindle://book?action=open&asin=B071CTK28D&location=1569)
+Countries behave in a more self-interested and less considerate way than what most of us would consider appropriate for individuals. ^ref-36534
+
+---
+— location: [1573](kindle://book?action=open&asin=B071CTK28D&location=1573)
+Most people who haven’t had direct contact with the leadership of their own and other countries form their views based on what they learn in the media, and become quite naive and inappropriately opinionated as a result. ^ref-41402
+
+---
+— location: [1575](kindle://book?action=open&asin=B071CTK28D&location=1575)
+clinical objectivity. ^ref-5185
+
+---
+— location: [1579](kindle://book?action=open&asin=B071CTK28D&location=1579)
+time frames ^ref-45649
+
+---
+— location: [1582](kindle://book?action=open&asin=B071CTK28D&location=1582)
+though most policymakers pretend that’s what they’re doing. More typically, they act in support of their constituents’ interests. ^ref-35865
+
+---
+— location: [1589](kindle://book?action=open&asin=B071CTK28D&location=1589)
+most policymakers enter their careers as idealists and leave disillusioned. ^ref-7341
+
+---
+— location: [1590](kindle://book?action=open&asin=B071CTK28D&location=1590)
+Wang Qishan, ^ref-24449
+
+---
+— location: [1597](kindle://book?action=open&asin=B071CTK28D&location=1597)
+most everything happens over and over again, ^ref-61854
+
+---
+— location: [1603](kindle://book?action=open&asin=B071CTK28D&location=1603)
+“Capable people are those who sit there worrying about the future. The unwise are those who worry about nothing. If conflicts got resolved before they became acute, there wouldn’t be any heroes.” ^ref-61219
+
+---
+— location: [1610](kindle://book?action=open&asin=B071CTK28D&location=1610)
+RETURNING THE BOON ^ref-19988
+
+---
+— location: [1611](kindle://book?action=open&asin=B071CTK28D&location=1611)
+The Hero with a Thousand Faces, ^ref-8523
+
+---
+— location: [1623](kindle://book?action=open&asin=B071CTK28D&location=1623)
+reconciliations ^ref-62028
+
+---
+— location: [1643](kindle://book?action=open&asin=B071CTK28D&location=1643)
+learning about the hero’s journey did help me crystallize my understanding of where I was in my own journey, and what I should do next. ^ref-31057
+
+---
+— location: [1649](kindle://book?action=open&asin=B071CTK28D&location=1649)
+instinctive. ^ref-14306
+
+---
+— location: [1651](kindle://book?action=open&asin=B071CTK28D&location=1651)
+WRESTLING WITH THE QUESTIONS OF PHILANTHROPY ^ref-30831
+
+---
+— location: [1652](kindle://book?action=open&asin=B071CTK28D&location=1652)
+“philanthropy” ^ref-63784
+
+---
+— location: [1655](kindle://book?action=open&asin=B071CTK28D&location=1655)
+501(c)(3) foundation ^ref-52779
+
+---
+— location: [1664](kindle://book?action=open&asin=B071CTK28D&location=1664)
+Long before I had a lot of money, I had determined that I wanted my sons to have only enough to afford excellent health care, excellent education, and an initial boost to help their careers get started. My perspective was influenced by my own journey through life, which took me from having nothing to having a lot. That taught me to struggle well and made me strong. I wanted the same for the people I loved. So, when I had earned a lot of money, I felt I had plenty of money to give away to others. ^ref-42969
+
+---
+— location: [1670](kindle://book?action=open&asin=B071CTK28D&location=1670)
+how many generations I should budget to protect. ^ref-17433
+
+---
+— location: [1675](kindle://book?action=open&asin=B071CTK28D&location=1675)
+“disengaged and disconnected.” ^ref-62890
+
+---
+— location: [1684](kindle://book?action=open&asin=B071CTK28D&location=1684)
+comprising ^ref-22335
+
+---
+— location: [1697](kindle://book?action=open&asin=B071CTK28D&location=1697)
+creating formalized principles and policies for our decision making. ^ref-11495
+
+---
+— location: [1703](kindle://book?action=open&asin=B071CTK28D&location=1703)
+there’s no one right way to do philanthropy, though there are plenty of wrong ways. ^ref-57703
+
+---
+— location: [1705](kindle://book?action=open&asin=B071CTK28D&location=1705)
+BRIDGEWATER TURNS FORTY ^ref-7753
+
+---
+— location: [1736](kindle://book?action=open&asin=B071CTK28D&location=1736)
+CHAPTER 7 MY LAST YEAR AND MY GREATEST CHALLENGE: 2016–2017 ^ref-64891
+
+---
+— location: [1751](kindle://book?action=open&asin=B071CTK28D&location=1751)
+modus operandi ^ref-14239
+
+---
+— location: [1751](kindle://book?action=open&asin=B071CTK28D&location=1751)
+try, fail, diagnose, redesign, and try again. ^ref-4309
+
+---
+— location: [1764](kindle://book?action=open&asin=B071CTK28D&location=1764)
+what I didn’t know was much greater than what I did, ^ref-28997
+
+---
+— location: [1766](kindle://book?action=open&asin=B071CTK28D&location=1766)
+Put capable CEOs in place and have a capable governance system to replace the CEOs if they’re not capable.” ^ref-2857
+
+---
+— location: [1770](kindle://book?action=open&asin=B071CTK28D&location=1770)
+I had created an informal governance system by having me report to our Management Committee as a check on my decision making). ^ref-45093
+
+---
+— location: [1771](kindle://book?action=open&asin=B071CTK28D&location=1771)
+While that informal system had worked for me, it could not work well without me. ^ref-6002
+
+---
+— location: [1773](kindle://book?action=open&asin=B071CTK28D&location=1773)
+resilient ^ref-6098
+
+---
+— location: [1780](kindle://book?action=open&asin=B071CTK28D&location=1780)
+I will be free to live and free to die. ^ref-56930
+
+---
+— location: [1782](kindle://book?action=open&asin=B071CTK28D&location=1782)
+CHAPTER 8 LOOKING BACK FROM A HIGHER LEVEL ^ref-35894
+
+---
+— location: [1803](kindle://book?action=open&asin=B071CTK28D&location=1803)
+like everyone—make mistakes, struggle with their weaknesses, and don’t feel that they are particularly special or great. ^ref-46414
+
+---
+— location: [1808](kindle://book?action=open&asin=B071CTK28D&location=1808)
+imagine instantaneously achieving it. You’d be happy at first, but not for long. You would soon find yourself needing something else to struggle for. ^ref-21283
+
+---
+— location: [1822](kindle://book?action=open&asin=B071CTK28D&location=1822)
+infinitesimally ^ref-23639
+
+---
+— location: [1832](kindle://book?action=open&asin=B071CTK28D&location=1832)
+PRINCIPLES ^ref-25405
+
+---
+— location: [1833](kindle://book?action=open&asin=B071CTK28D&location=1833)
+Good principles are effective ways of dealing with reality. To learn my own, I spend a lot of time reflecting. So rather than just giving you my principles, I will share the reflections behind them. ^ref-16229
+
+---
+— location: [1835](kindle://book?action=open&asin=B071CTK28D&location=1835)
+everything that happens comes about because of cause-effect relationships that repeat and evolve over time. ^ref-15979
+
+---
+— location: [1841](kindle://book?action=open&asin=B071CTK28D&location=1841)
+Look to the patterns of those things that affect you in order to understand the cause-effect relationships that drive them and to learn principles for dealing with them effectively. ^ref-21931
+
+---
+— location: [1854](kindle://book?action=open&asin=B071CTK28D&location=1854)
+don’t want you to follow my (or anyone’s) principles blindly. I suggest that you think through all the principles available to you from different sources and put together a collection of your own that you can turn to whenever reality sends “another one of those” your way. ^ref-59576
+
+---
+— location: [1858](kindle://book?action=open&asin=B071CTK28D&location=1858)
+1 Higher-level principles, which are also the chapter titles, are preceded by single numbers. ^ref-60469
+
+---
+— location: [1859](kindle://book?action=open&asin=B071CTK28D&location=1859)
+1.1 Mid-level principles are contained within each chapter and are designated by two numbers: one indicating the higher-level principle it is under and the other showing the order in which it appears in the chapter. ^ref-16004
+
+---
+— location: [1861](kindle://book?action=open&asin=B071CTK28D&location=1861)
+a. Sub-principles fall under the mid-level principles and are marked with letters. ^ref-898
+
+---
+— location: [1864](kindle://book?action=open&asin=B071CTK28D&location=1864)
+I suggest you start with the higher-level principles and the text explaining them, plus the headings for both the principles and subprinciples. ^ref-60569
+
+---
+— location: [1867](kindle://book?action=open&asin=B071CTK28D&location=1867)
+PART II LIFE PRINCIPLES ^ref-39370
+
+---
+— location: [1868](kindle://book?action=open&asin=B071CTK28D&location=1868)
+1 Embrace Reality and Deal with It ^ref-39275
+
+---
+— location: [1869](kindle://book?action=open&asin=B071CTK28D&location=1869)
+There is nothing more important than understanding how reality works and how to deal with it. ^ref-53982
+
+---
+— location: [1874](kindle://book?action=open&asin=B071CTK28D&location=1874)
+reconcile ^ref-46519
+
+---
+— location: [1877](kindle://book?action=open&asin=B071CTK28D&location=1877)
+exhilarating ^ref-43781
+
+---
+— location: [1879](kindle://book?action=open&asin=B071CTK28D&location=1879)
+keep that pain in perspective, knowing that I will get through these setbacks and that most of my learning will come from reflecting on them. ^ref-13301
+
+---
+— location: [1883](kindle://book?action=open&asin=B071CTK28D&location=1883)
+1.1 Be a hyperrealist. ^ref-21932
+
+---
+— location: [1889](kindle://book?action=open&asin=B071CTK28D&location=1889)
+a. Dreams + Reality + Determination = A Successful Life. ^ref-28400
+
+---
+— location: [1889](kindle://book?action=open&asin=B071CTK28D&location=1889)
+understand the cause-effect relationships ^ref-54041
+
+---
+— location: [1890](kindle://book?action=open&asin=B071CTK28D&location=1890)
+Idealists who are not well grounded in reality create problems, not progress. ^ref-40938
+
+---
+— location: [1901](kindle://book?action=open&asin=B071CTK28D&location=1901)
+there is no escaping the fact ^ref-10660
+
+---
+— location: [1902](kindle://book?action=open&asin=B071CTK28D&location=1902)
+1.2 Truth—or, more precisely, an accurate understanding of reality—is the essential foundation for any good outcome. ^ref-29339
+
+---
+— location: [1906](kindle://book?action=open&asin=B071CTK28D&location=1906)
+1.3 Be radically open-minded and radically transparent. ^ref-21821
+
+---
+— location: [1908](kindle://book?action=open&asin=B071CTK28D&location=1908)
+discover what’s true for ourselves or believe and follow others. ^ref-45039
+
+---
+— location: [1908](kindle://book?action=open&asin=B071CTK28D&location=1908)
+The key is to know which path will yield better results. ^ref-38833
+
+---
+— location: [1910](kindle://book?action=open&asin=B071CTK28D&location=1910)
+a. Radical open-mindedness and radical transparency are invaluable for rapid learning and effective change. ^ref-62474
+
+---
+— location: [1911](kindle://book?action=open&asin=B071CTK28D&location=1911)
+Learning is the product of a continuous real-time feedback loop in which we make decisions, see their outcomes, and improve our understanding of reality as a result. ^ref-61421
+
+---
+— location: [1917](kindle://book?action=open&asin=B071CTK28D&location=1917)
+if you don’t put yourself out there with your radical transparency, you won’t learn. ^ref-17377
+
+---
+— location: [1918](kindle://book?action=open&asin=B071CTK28D&location=1918)
+b. Don’t let fears of what others think of you stand in your way. ^ref-37439
+
+---
+— location: [1919](kindle://book?action=open&asin=B071CTK28D&location=1919)
+be willing to do things in the unique ways you think are best—and to open-mindedly reflect on the feedback that comes inevitably as a result of being that way. ^ref-27605
+
+---
+— location: [1930](kindle://book?action=open&asin=B071CTK28D&location=1930)
+practice it as a discipline ^ref-55307
+
+---
+— location: [1931](kindle://book?action=open&asin=B071CTK28D&location=1931)
+c. Embracing radical truth and radical transparency will bring more meaningful work and more meaningful relationships. ^ref-11729
+
+---
+— location: [1934](kindle://book?action=open&asin=B071CTK28D&location=1934)
+eighteen months, which is how long it takes to change most habits. ^ref-13341
+
+---
+— location: [1935](kindle://book?action=open&asin=B071CTK28D&location=1935)
+1.4 Look to nature to learn how reality works. ^ref-61614
+
+---
+— location: [1936](kindle://book?action=open&asin=B071CTK28D&location=1936)
+All the laws of reality were given to us by nature. ^ref-45953
+
+---
+— location: [1937](kindle://book?action=open&asin=B071CTK28D&location=1937)
+understanding them we can use them to foster our own evolution and achieve our goals. ^ref-18099
+
+---
+— location: [1942](kindle://book?action=open&asin=B071CTK28D&location=1942)
+of nature and which differentiate us. Doing that has had a big impact on my approach to life. First of all, I see how cool it is that the brain’s ^ref-4117
+
+---
+— location: [1943](kindle://book?action=open&asin=B071CTK28D&location=1943)
+Man’s most distinctive quality is our singular ability to look down on reality from a higher perspective and synthesize an understanding of it. ^ref-56995
+
+---
+— location: [1944](kindle://book?action=open&asin=B071CTK28D&location=1944)
+other species operate by following their instincts, ^ref-37284
+
+---
+— location: [1947](kindle://book?action=open&asin=B071CTK28D&location=1947)
+the evolution of the brain gave man a much more developed neocortex, which gives us the power to think abstractly and logically. ^ref-50772
+
+---
+— location: [1950](kindle://book?action=open&asin=B071CTK28D&location=1950)
+reconcile ^ref-46519
+
+---
+— location: [1951](kindle://book?action=open&asin=B071CTK28D&location=1951)
+people to confuse what they want to be true with what actually is true. ^ref-21056
+
+---
+— location: [1953](kindle://book?action=open&asin=B071CTK28D&location=1953)
+one can approach the subject with two perspectives: ^ref-49235
+
+---
+— location: [1954](kindle://book?action=open&asin=B071CTK28D&location=1954)
+1. Top down: ^ref-58923
+
+---
+— location: [1954](kindle://book?action=open&asin=B071CTK28D&location=1954)
+trying to find the one code/law that drives them all. ^ref-4664
+
+---
+— location: [1956](kindle://book?action=open&asin=B071CTK28D&location=1956)
+2. Bottom up: ^ref-28827
+
+---
+— location: [1956](kindle://book?action=open&asin=B071CTK28D&location=1956)
+studying each specific case and the codes/laws that are true for them, ^ref-50837
+
+---
+— location: [1959](kindle://book?action=open&asin=B071CTK28D&location=1959)
+to understand the world accurately you need both. ^ref-47735
+
+---
+— location: [1973](kindle://book?action=open&asin=B071CTK28D&location=1973)
+I start from the premise that nature is smarter than I am and try to let nature teach me how reality works. ^ref-784
+
+---
+— location: [1975](kindle://book?action=open&asin=B071CTK28D&location=1975)
+a. Don’t get hung up on your views of how things “should” be because you will miss out on learning how they really are. ^ref-38763
+
+---
+— location: [1976](kindle://book?action=open&asin=B071CTK28D&location=1976)
+not to let our biases stand in the way of our objectivity. ^ref-14403
+
+---
+— location: [1976](kindle://book?action=open&asin=B071CTK28D&location=1976)
+be analytical rather than emotional. ^ref-35997
+
+---
+— location: [1986](kindle://book?action=open&asin=B071CTK28D&location=1986)
+Most people call something bad if it is bad for them or bad for those they empathize with, ignoring the greater good. ^ref-26497
+
+---
+— location: [1993](kindle://book?action=open&asin=B071CTK28D&location=1993)
+b. To be “good” something must operate consistently with the laws of reality and contribute to the evolution of the whole; that is what is most rewarded. ^ref-23327
+
+---
+— location: [1997](kindle://book?action=open&asin=B071CTK28D&location=1997)
+c. Evolution is the single greatest force in the universe; it is the only thing that is permanent and it drives everything. ^ref-42388
+
+---
+— location: [2012](kindle://book?action=open&asin=B071CTK28D&location=2012)
+Evolution consists of adaptations/inventions that provide spurts of benefits that decline in value. ^ref-52497
+
+---
+— location: [2019](kindle://book?action=open&asin=B071CTK28D&location=2019)
+perfection doesn’t exist; ^ref-31850
+
+---
+— location: [2019](kindle://book?action=open&asin=B071CTK28D&location=2019)
+If nature, or anything, were perfect it wouldn’t be evolving. ^ref-63249
+
+---
+— location: [2021](kindle://book?action=open&asin=B071CTK28D&location=2021)
+find our imperfections and deal with them. You will either learn valuable lessons from your mistakes and press on, better equipped to succeed—or you won’t and you will fail. ^ref-16006
+
+---
+— location: [2023](kindle://book?action=open&asin=B071CTK28D&location=2023)
+d. Evolve or die. ^ref-31501
 
 ---

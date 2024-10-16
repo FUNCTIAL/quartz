@@ -1,4 +1,5 @@
 ---
+draft: true
 kindle-sync:
   bookId: '1493'
   title: 'The Algebra of Happiness: Notes on the Pursuit of Success, Love, and Meaning'
@@ -8,6 +9,7 @@ kindle-sync:
   bookImageUrl: 'https://m.media-amazon.com/images/I/71OilN30RgL._SY160.jpg'
   highlightsCount: 6
 ---
+
 Author: [Scott Galloway](https://www.amazon.comundefined)
 * ASIN: B07MYLW896
 * ISBN: 0593084195

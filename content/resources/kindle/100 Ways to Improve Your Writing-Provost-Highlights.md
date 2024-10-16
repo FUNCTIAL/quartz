@@ -1,4 +1,5 @@
 ---
+draft: true
 kindle-sync:
   bookId: '65287'
   title: >-
@@ -10,6 +11,7 @@ kindle-sync:
   bookImageUrl: 'https://m.media-amazon.com/images/I/71fnEn2MDgL._SY160.jpg'
   highlightsCount: 14
 ---
+
 Author: [Gary Provost](https://www.amazon.comundefined)
 * ASIN: B07H1V584S
 * ISBN: 0451627210

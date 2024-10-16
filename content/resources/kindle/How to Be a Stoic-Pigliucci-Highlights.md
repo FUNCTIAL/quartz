@@ -1,4 +1,5 @@
 ---
+draft: true
 kindle-sync:
   bookId: '17596'
   title: 'How to Be a Stoic: Using Ancient Philosophy to Live a Modern Life'
@@ -8,6 +9,7 @@ kindle-sync:
   bookImageUrl: 'https://m.media-amazon.com/images/I/81pSMuVoQ0L._SY160.jpg'
   highlightsCount: 7
 ---
+
 Author: [Massimo Pigliucci](https://www.amazon.comundefined)
 * ASIN: B01K3WN1BY
 * ISBN: 0465097952

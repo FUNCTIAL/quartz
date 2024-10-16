@@ -8,5 +8,7 @@
   "showRibbon": true,
   "strictLineBreaks": false,
   "autoPairMarkdown": true,
-  "vimMode": false
+  "vimMode": false,
+  "showLineNumber": false,
+  "readableLineLength": true
 }

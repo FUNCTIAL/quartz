@@ -1,4 +1,5 @@
 ---
+draft: true
 kindle-sync:
   bookId: '47379'
   title: >-
@@ -11,6 +12,7 @@ kindle-sync:
   bookImageUrl: 'https://m.media-amazon.com/images/I/91zce6osJiL._SY160.jpg'
   highlightsCount: 4
 ---
+
 Author: [Steve Brusatte](https://www.amazon.comundefined)
 * ASIN: B0727TN8H6
 * ISBN: 0062490427

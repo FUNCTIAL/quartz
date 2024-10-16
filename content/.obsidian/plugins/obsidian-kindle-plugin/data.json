@@ -3,10 +3,10 @@
   "highlightsFolder": "resources/kindle",
   "lastSyncMode": "amazon",
   "isLoggedIn": true,
-  "syncOnBoot": true,
+  "syncOnBoot": false,
   "downloadBookMetadata": true,
-  "lastSyncDate": "2024-10-12T11:14:11.422Z",
-  "fileNameTemplate": "{{authorsLastNames}}-{{title}}-Highlights",
-  "fileTemplate": "{% trim %}\n{% if authorUrl %}\nAuthor: [{{author}}]({{authorUrl}})\n{% elif author %}\nAuthor: [[{{author}}]]\n{% endif %}\n{% if asin %}* ASIN: {{asin}}{% endif %}\n{% if isbn %}* ISBN: {{isbn}}{% endif %}\n{% if pages %}* Pages: {{pages}}{% endif %}\n{% if publication %}* Publication: {{publication}}{% endif %}\n{% if publisher %}* Publisher: {{publisher}}{% endif %}\n{% if url %}* Reference: {{url}}{% endif %}\n{% if appLink %}* [Kindle link]({{appLink}}){% endif %}\n{% endtrim %}\n\n# Highlights\n\n{{highlights}}",
+  "lastSyncDate": "2024-10-16T20:36:54.039Z",
+  "fileNameTemplate": "{{title}}-{{authorsLastNames}}-Highlights",
+  "fileTemplate": "---\ndraft: true\n---\n\n{% trim %}\n{% if authorUrl %}\nAuthor: [{{author}}]({{authorUrl}})\n{% elif author %}\nAuthor: [[{{author}}]]\n{% endif %}\n{% if asin %}* ASIN: {{asin}}{% endif %}\n{% if isbn %}* ISBN: {{isbn}}{% endif %}\n{% if pages %}* Pages: {{pages}}{% endif %}\n{% if publication %}* Publication: {{publication}}{% endif %}\n{% if publisher %}* Publisher: {{publisher}}{% endif %}\n{% if url %}* Reference: {{url}}{% endif %}\n{% if appLink %}* [Kindle link]({{appLink}}){% endif %}\n{% endtrim %}\n\n# Highlights\n\n{{highlights}}",
   "highlightTemplate": "— location: [{{ location }}]({{ appLink }})\n{{ text }}\n\n{% if note %}{{note}}{% endif %}\n\n---\n"
 }

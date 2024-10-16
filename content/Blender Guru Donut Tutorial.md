@@ -2,6 +2,7 @@
 tags:
  - Blender
  - 3D
+draft: false
 ---
 
 Add Menu | Shift + A

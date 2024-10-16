@@ -1,4 +1,5 @@
 ---
+draft: true
 kindle-sync:
   bookId: '5892'
   title: 'Make Time: How to Focus on What Matters Every Day'
@@ -8,6 +9,7 @@ kindle-sync:
   bookImageUrl: 'https://m.media-amazon.com/images/I/817k-6iydAL._SY160.jpg'
   highlightsCount: 41
 ---
+
 Author: [Jake Knapp and John Zeratsky](https://www.amazon.comundefined)
 * ASIN: B078QSCM3V
 * ISBN: 0593079582

@@ -1,4 +1,5 @@
 ---
+draft: true
 kindle-sync:
   bookId: '52016'
   title: 'The Design of Everyday Things: Revised and Expanded Edition'
@@ -8,6 +9,7 @@ kindle-sync:
   bookImageUrl: 'https://m.media-amazon.com/images/I/71LBfNStp9L._SY160.jpg'
   highlightsCount: 28
 ---
+
 Author: [Don Norman](https://www.amazon.comundefined)
 * ASIN: B06XCCZJ4L
 * Reference: https://www.amazon.com/dp/B06XCCZJ4L

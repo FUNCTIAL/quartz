@@ -1,4 +1,5 @@
 ---
+draft: true
 kindle-sync:
   bookId: '3615'
   title: >-
@@ -10,6 +11,7 @@ kindle-sync:
   bookImageUrl: 'https://m.media-amazon.com/images/I/8188saNlHuL._SY160.jpg'
   highlightsCount: 33
 ---
+
 Author: [Mihaly Csikszentmihalyi](https://www.amazon.comundefined)
 * ASIN: B000W94FE6
 * Reference: https://www.amazon.com/dp/B000W94FE6

@@ -1,6 +1,7 @@
 ---
 tags:
   - Programming
+draft: false
 ---
 
 Java is a [[Object Oriented Programming]] Language

@@ -1,13 +1,15 @@
 ---
+draft: true
 kindle-sync:
   bookId: '36017'
   title: 'Meditations: A New Translation (Modern Library)'
   author: Marcus Aurelius and Gregory Hays
   asin: B000FC1JAI
-  lastAnnotatedDate: '2024-10-03'
+  lastAnnotatedDate: '2024-10-11'
   bookImageUrl: 'https://m.media-amazon.com/images/I/71dwCdjTA-L._SY160.jpg'
   highlightsCount: 47
 ---
+
 Author: [Marcus Aurelius and Gregory Hays](https://www.amazon.comundefined)
 * ASIN: B000FC1JAI
 * ISBN: 0679642609

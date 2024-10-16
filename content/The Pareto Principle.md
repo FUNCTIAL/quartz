@@ -1,6 +1,7 @@
 ---
 tags:
   - Self-Improvement
+draft: false
 ---
 
 Also known as 80/20 Rule, stated that 80% of the result come from 20% of the effort.

@@ -1,4 +1,5 @@
 ---
+draft: true
 kindle-sync:
   bookId: '5904'
   title: >-
@@ -10,6 +11,7 @@ kindle-sync:
   bookImageUrl: 'https://m.media-amazon.com/images/I/81G9RTo7a3L._SY160.jpg'
   highlightsCount: 4
 ---
+
 Author: [Scott H. Young and James Clear](https://www.amazon.comundefined)
 * ASIN: B07K6MF8MD
 * ISBN: 0008305706
@@ -26,7 +28,6 @@ Passive learning creates knowledge. Active practice creates skill. ^ref-25108
 Learning can be very useful, of course, but the danger is that the act of soaking up new facts can be disconnected from the process of refining a new skill. ^ref-23356
 
 ---
-
 — location: [99](kindle://book?action=open&asin=B07K6MF8MD&location=99)
 Ultralearning is a path to prove to yourself that you have the ability to improve and to make the most of your life. It gives you the confidence that you can accomplish ambitious things. ^ref-36019
 

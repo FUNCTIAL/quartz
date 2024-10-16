@@ -2,6 +2,7 @@
 tags:
   - Programming
   - GameDev
+draft: false
 ---
 
 Nodes are fundamental building blocks of Godot Engine

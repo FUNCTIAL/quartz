@@ -1,4 +1,5 @@
 ---
+draft: true
 kindle-sync:
   bookId: '52787'
   title: >-
@@ -10,6 +11,7 @@ kindle-sync:
   bookImageUrl: 'https://m.media-amazon.com/images/I/7111nFVfgqL._SY160.jpg'
   highlightsCount: 7
 ---
+
 Author: [Austin Kleon](https://www.amazon.comundefined)
 * ASIN: B00GU2RGGI
 * Reference: https://www.amazon.com/dp/B00GU2RGGI

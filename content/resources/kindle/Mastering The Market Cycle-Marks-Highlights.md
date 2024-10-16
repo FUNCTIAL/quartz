@@ -1,4 +1,5 @@
 ---
+draft: true
 kindle-sync:
   bookId: '37180'
   title: 'Mastering The Market Cycle: Getting the odds on your side'
@@ -8,6 +9,7 @@ kindle-sync:
   bookImageUrl: 'https://m.media-amazon.com/images/I/71GCBy5m+aL._SY160.jpg'
   highlightsCount: 79
 ---
+
 Author: [Howard Marks](https://www.amazon.comundefined)
 * ASIN: B07BH1R2T1
 * Reference: https://www.amazon.com/dp/B07BH1R2T1

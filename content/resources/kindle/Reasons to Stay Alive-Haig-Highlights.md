@@ -1,4 +1,5 @@
 ---
+draft: true
 kindle-sync:
   bookId: '56856'
   title: Reasons to Stay Alive
@@ -8,6 +9,7 @@ kindle-sync:
   bookImageUrl: 'https://m.media-amazon.com/images/I/71Ta-6LSFdL._SY160.jpg'
   highlightsCount: 2
 ---
+
 Author: [Matt Haig](https://www.amazon.comundefined)
 * ASIN: B00YOAZYWQ
 * ISBN: 1782115080

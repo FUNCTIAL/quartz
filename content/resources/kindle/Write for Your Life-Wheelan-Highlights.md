@@ -1,4 +1,5 @@
 ---
+draft: true
 kindle-sync:
   bookId: '30128'
   title: >-
@@ -10,6 +11,7 @@ kindle-sync:
   bookImageUrl: 'https://m.media-amazon.com/images/I/71M7clylVvL._SY160.jpg'
   highlightsCount: 1
 ---
+
 Author: [Charles Wheelan](https://www.amazon.comundefined)
 * ASIN: B09KMD4TMR
 * Reference: https://www.amazon.com/dp/B09KMD4TMR

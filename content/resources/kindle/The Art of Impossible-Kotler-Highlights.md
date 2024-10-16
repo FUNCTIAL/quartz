@@ -1,13 +1,15 @@
 ---
+draft: true
 kindle-sync:
   bookId: '3554'
   title: 'The Art of Impossible: A Peak Performance Primer'
   author: Steven Kotler
   asin: B087CL5574
-  lastAnnotatedDate: '2024-10-08'
+  lastAnnotatedDate: '2024-10-12'
   bookImageUrl: 'https://m.media-amazon.com/images/I/81aYVgKAgEL._SY160.jpg'
   highlightsCount: 39
 ---
+
 Author: [Steven Kotler](https://www.amazon.comundefined)
 * ASIN: B087CL5574
 * ISBN: 0063217392

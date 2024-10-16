@@ -1,4 +1,5 @@
 ---
+draft: true
 kindle-sync:
   bookId: '53854'
   title: 'When: The Scientific Secrets of Perfect Timing'
@@ -8,6 +9,7 @@ kindle-sync:
   bookImageUrl: 'https://m.media-amazon.com/images/I/71RAupsT2fL._SY160.jpg'
   highlightsCount: 7
 ---
+
 Author: [Daniel H. Pink](https://www.amazon.comundefined)
 * ASIN: B072Q985YX
 * ISBN: 1782119892

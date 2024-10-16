@@ -1,4 +1,5 @@
 ---
+draft: true
 kindle-sync:
   bookId: '10324'
   title: >-
@@ -10,6 +11,7 @@ kindle-sync:
   bookImageUrl: 'https://m.media-amazon.com/images/I/71+IDmZU88L._SY160.jpg'
   highlightsCount: 39
 ---
+
 Author: [Tiago Forte](https://www.amazon.comundefined)
 * ASIN: B09LVVN9L3
 * ISBN: 1800812213

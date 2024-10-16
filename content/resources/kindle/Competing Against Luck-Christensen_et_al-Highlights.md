@@ -1,4 +1,5 @@
 ---
+draft: true
 kindle-sync:
   bookId: '51579'
   title: 'Competing Against Luck: The Story of Innovation and Customer Choice'
@@ -8,6 +9,7 @@ kindle-sync:
   bookImageUrl: 'https://m.media-amazon.com/images/I/71XvcFtQA9L._SY160.jpg'
   highlightsCount: 5
 ---
+
 Author: [Clayton M. Christensen, Karen Dillon, Taddy Hall, and David S.  Duncan](https://www.amazon.comundefined)
 * ASIN: B01BBPZIHM
 * ISBN: 0062435612

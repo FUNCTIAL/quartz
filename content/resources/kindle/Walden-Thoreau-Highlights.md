@@ -1,4 +1,5 @@
 ---
+draft: true
 kindle-sync:
   bookId: '29150'
   title: Walden (AmazonClassics Edition)
@@ -8,6 +9,7 @@ kindle-sync:
   bookImageUrl: 'https://m.media-amazon.com/images/I/81TvnitNAxL._SY160.jpg'
   highlightsCount: 110
 ---
+
 Author: [Henry David Thoreau](https://www.amazon.comundefined)
 * ASIN: B073QLBBYZ
 * Reference: https://www.amazon.com/dp/B073QLBBYZ
